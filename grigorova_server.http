@@ -1,6 +1,6 @@
-@grigorova_server_HostAddress = http://localhost:5195
+@Grigorova_Server_HostAddress = http://localhost:5284
 
-GET {{grigorova_server_HostAddress}}/weatherforecast/
+GET {{Grigorova_Server_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
